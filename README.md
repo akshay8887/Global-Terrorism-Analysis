@@ -1,0 +1,2 @@
+- This Project is about Global Terrorism dataset that contains information around the past decades.
+- This dataset contains various information such as weapon type, terrorist group, targetted citizens etc.
